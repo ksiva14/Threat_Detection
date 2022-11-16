@@ -1,2 +1,5 @@
 *.gif
 *.MOV
+*.pkl
+*.h5
+models/*
